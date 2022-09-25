@@ -8,7 +8,7 @@ This respository contains instructions and scripts to check a list of proxies by
 
 ### Getting a list of public proxies from Twitter
 
-[Get Twitter API access](https://developer.twitter.com/en/portal/dashboard) via Bearer Token so we can search recent Tweets, then set `BERER_TOKEN` in your local environment:
+[Get Twitter API access](https://developer.twitter.com/en/portal/dashboard) via Bearer Token so we can search recent Tweets, then set `BEARER_TOKEN` in your local environment:
 
 ```
 BEARER_TOKEN=<get-your-own-token>
